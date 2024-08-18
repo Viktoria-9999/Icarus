@@ -48,8 +48,6 @@ public class PathResolver : IDisposable, IService
         if (!_config.EnableMods)
             return (null, ResolveData.Invalid);
 
-        //TODO @Star - check for state validater where applicable, otherwise will break execution.
-
         // Do not allow manipulating layers to prevent very obvious cheating and softlocks.
         //if (resourceType is ResourceType.Lvb or ResourceType.Lgb or ResourceType.Sgb)
         //return (null, ResolveData.Invalid);
