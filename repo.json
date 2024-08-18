@@ -1,13 +1,13 @@
 [
   {
-    "Author": "Ottermandias, Adam, Wintermute",
-    "Name": "Penumbra",
-    "Punchline": "Runtime mod loader and manager.",
-    "Description": "Runtime mod loader and manager.",
-    "InternalName": "Penumbra",
+    "Author": "Viktoria (Forked from work by Ottermandias, Adam, and Wintermute)",
+    "Name": "Icarus",
+    "Punchline": "Modified mod loader and manager.",
+    "Description": "Modified mod loader and manager.",
+    "InternalName": "Icarus",
     "AssemblyVersion": "1.2.1.1",
     "TestingAssemblyVersion": "1.2.1.1",
-    "RepoUrl": "https://github.com/xivdev/Penumbra",
+    "RepoUrl": "https://github.com/Viktoria-9999/Icarus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
@@ -18,9 +18,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/1.2.1.1/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/1.2.1.1/Penumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/1.2.1.1/Penumbra.zip",
+    "DownloadLinkInstall": "https://github.com/Viktoria-9999/Icarus/archive/refs/heads/main.zip",
+    "DownloadLinkTesting": "https://github.com/Viktoria-9999/Icarus/archive/refs/heads/main.zip",
+    "DownloadLinkUpdate": "https://github.com/Viktoria-9999/Icarus/archive/refs/heads/main.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
   }
 ]
